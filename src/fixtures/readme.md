@@ -1,0 +1,1 @@
+Much like JSON constants
